@@ -14,7 +14,7 @@ It includes metrics such as average shipping time by delivery type, state-level 
 - Superstore dataset (sample data)
 
 ## Screenshot
-![Dashboard Preview](<img width="1920" height="1620" alt="screencapture-public-tableau-app-profile-khrystyna-derkach-viz-pr1-3-17600659665490-AverageShippingTimebyU-S-Stat" src="https://github.com/user-attachments/assets/6c85e5e6-3dba-4700-9745-a94af29cd73a" />)
+![Dashboard Preview](<img width="1920" height="1620" alt="screencapture-public-tableau-app-profile-khrystyna-derkach-viz-pr1-3-17600659665490-AverageShippingTimebyU-S-Stat" src="https://github.com/user-attachments/assets/d5e83a53-0409-41c7-af3c-7caafa9ce04c" />)
 
 ## Tableau Public Link
-👉 [View the dashboard here](https://public.tableau.com/app/profile/khrystyna.derkach/viz/pr1_3_17600659665490/AverageShippingTimebyU_S_State)
+👉 [View the dashboard here](https://public.tableau.com/app/profile/khrystyna.derkach/viz/ShippingPerformance_17608080093160/ShippingPerformanceDashboard)
